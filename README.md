@@ -1,3 +1,3 @@
 # Pizza Order Manager
 
-Creates and manages pizza based orders
+Creates and manages pizza based orders!
